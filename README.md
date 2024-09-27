@@ -5,8 +5,24 @@ This project focuses on analyzing and visualizing data from Steam's game library
 
 ### Data Extraction
 
-- The data for this project was obtained from **SteamSpy**, a third-party website providing comprehensive Steam game metrics such as ownership, pricing, and review information.  
-- Once extracted, the raw data was stored in **Azure Blob Storage** for further analysis in Power BI.
+The data used in this analysis was extracted using a Python script, `fetchTopgames.py`, which pulls the top 100 games from SteamSpy and retrieves detailed game information. The script stores the data in a JSON format that is then processed and stored in Azure Blob Storage for further analysis.
+
+#### How the Script Works:
+
+1. **Fetching Top 100 Games**:  
+   The script first calls SteamSpy’s API to fetch the top 100 most-played games in the past two weeks. It retries up to 5 times in case of connection errors and saves the game IDs into a file (`steam_top_100_games.json`).
+
+   - **`fetch_top_games()`**:  
+   This function makes an API request to SteamSpy, extracts the top 100 game app IDs, and stores them in a JSON file for later use.
+
+2. **Fetching Detailed Game Information**:  
+   Once the app IDs are saved, the script proceeds to fetch detailed data for each game (including ownership, reviews, and price) from SteamSpy’s app details API.
+
+   - **`fetch_multiple_game_details()`**:  
+   This function iterates over the list of game app IDs and fetches detailed information about each game. It handles API rate limits by introducing delays between requests and saves game details periodically (in batches of 50). If any app fails to fetch its data, the script retries failed app IDs after the initial run.
+
+3. **Saving and Storing Data**:  
+   After gathering the data for all 100 games, the script saves the information in a JSON file (`steam_top_100_game_details.json`). This data is then cleaned and processed before being stored in Azure Blob Storage for use in Power BI.
 
 ### Key Features:
 
