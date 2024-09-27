@@ -5,7 +5,7 @@ This project focuses on analyzing and visualizing data from Steam's game library
 
 ### Data Extraction
 
-The data used in this analysis was extracted using a Python script, `fetchTopgames.py`, which pulls the top 100 games from SteamSpy and retrieves detailed game information. The script stores the data in a JSON format that is then processed and stored in Azure Blob Storage for further analysis.
+The data used in this analysis was extracted using a Python script, `fetchTopGames.py`, which pulls the top 100 games from SteamSpy and retrieves detailed game information. The script stores the data in a JSON format that is then processed and stored in Azure Blob Storage for further analysis.
 
 #### How the Script Works:
 
