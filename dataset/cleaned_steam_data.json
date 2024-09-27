@@ -1,0 +1,1426 @@
+[
+    {
+        "appid": 570,
+        "name": "Dota 2",
+        "min_owners": 200000000,
+        "max_owners": 500000000,
+        "positive_reviews": 1896566,
+        "negative_reviews": 426954,
+        "price": 0.0,
+        "genre": "Action, Strategy, Free To Play",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 730,
+        "name": "Counter-Strike: Global Offensive",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 7238970,
+        "negative_reviews": 1075485,
+        "price": 0.0,
+        "genre": "Action, Free To Play",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "min_owners": 100000000,
+        "max_owners": 200000000,
+        "positive_reviews": 1429689,
+        "negative_reviews": 1002282,
+        "price": 0.0,
+        "genre": "Action, Adventure, Massively Multiplayer, Free To Play",
+        "developer": [
+            "PUBG Corporation"
+        ],
+        "publisher": "KRAFTON, Inc."
+    },
+    {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 648565,
+        "negative_reviews": 300280,
+        "price": 0.0,
+        "genre": "Action, Adventure, Free To Play",
+        "developer": [
+            "Respawn"
+        ],
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 984105,
+        "negative_reviews": 134463,
+        "price": 0.0,
+        "genre": "Action, Free To Play",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 1623730,
+        "name": "Palworld",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 299351,
+        "negative_reviews": 20014,
+        "price": 29.99,
+        "genre": "Action, Adventure, Indie, RPG, Early Access",
+        "developer": [
+            "Pocketpair"
+        ],
+        "publisher": "Pocketpair"
+    },
+    {
+        "appid": 1063730,
+        "name": "New World",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 191981,
+        "negative_reviews": 88421,
+        "price": 29.99,
+        "genre": "Action, Adventure, Massively Multiplayer, RPG",
+        "developer": [
+            "Amazon Games"
+        ],
+        "publisher": "Amazon Games"
+    },
+    {
+        "appid": 1938090,
+        "name": "Call of Duty: Modern Warfare II",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 361667,
+        "negative_reviews": 258544,
+        "price": 69.99,
+        "genre": "Action",
+        "developer": [
+            "Sledgehammer Games",
+            "Treyarch",
+            "Infinity Ward",
+            "Beenox",
+            "Raven Software",
+            "High Moon Studios",
+            "Demonware"
+        ],
+        "publisher": "Activision"
+    },
+    {
+        "appid": 271590,
+        "name": "Grand Theft Auto V",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 1634097,
+        "negative_reviews": 244051,
+        "price": 20.4,
+        "genre": "Action, Adventure",
+        "developer": [
+            "Rockstar North"
+        ],
+        "publisher": "Rockstar Games"
+    },
+    {
+        "appid": 2358720,
+        "name": "Black Myth: Wukong",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 841812,
+        "negative_reviews": 34257,
+        "price": 59.99,
+        "genre": "Action, Adventure, RPG",
+        "developer": [
+            "Game Science"
+        ],
+        "publisher": "Game Science"
+    },
+    {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 865543,
+        "negative_reviews": 22111,
+        "price": 9.99,
+        "genre": "Action",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 553850,
+        "name": "HELLDIVERS 2",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 650437,
+        "negative_reviews": 254779,
+        "price": 39.99,
+        "genre": "Action",
+        "developer": [
+            "Arrowhead Game Studios"
+        ],
+        "publisher": "PlayStation Publishing LLC"
+    },
+    {
+        "appid": 1599340,
+        "name": "Lost Ark",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 143007,
+        "negative_reviews": 57557,
+        "price": 0.0,
+        "genre": "Action, Adventure, Massively Multiplayer, RPG, Free To Play",
+        "developer": [
+            "Smilegate RPG"
+        ],
+        "publisher": "Amazon Games"
+    },
+    {
+        "appid": 252490,
+        "name": "Rust",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 963237,
+        "negative_reviews": 142926,
+        "price": 39.99,
+        "genre": "Action, Adventure, Indie, Massively Multiplayer, RPG",
+        "developer": [
+            "Facepunch Studios"
+        ],
+        "publisher": "Facepunch Studios"
+    },
+    {
+        "appid": 304930,
+        "name": "Unturned",
+        "min_owners": 50000000,
+        "max_owners": 100000000,
+        "positive_reviews": 499542,
+        "negative_reviews": 46555,
+        "price": 0.0,
+        "genre": "Action, Adventure, Casual, Indie, Free To Play",
+        "developer": [
+            "Smartly Dressed Games"
+        ],
+        "publisher": "Smartly Dressed Games"
+    },
+    {
+        "appid": 230410,
+        "name": "Warframe",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 519153,
+        "negative_reviews": 78694,
+        "price": 0.0,
+        "genre": "Action, RPG, Free To Play",
+        "developer": [
+            "Digital Extremes"
+        ],
+        "publisher": "Digital Extremes"
+    },
+    {
+        "appid": 236390,
+        "name": "War Thunder",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 421815,
+        "negative_reviews": 256890,
+        "price": 0.0,
+        "genre": "Action, Massively Multiplayer, Simulation, Free To Play",
+        "developer": [
+            "Gaijin Entertainment"
+        ],
+        "publisher": "Gaijin Network Ltd"
+    },
+    {
+        "appid": 1245620,
+        "name": "ELDEN RING",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 892746,
+        "negative_reviews": 69846,
+        "price": 41.99,
+        "genre": "Action, RPG",
+        "developer": [
+            "FromSoftware",
+            "Inc."
+        ],
+        "publisher": "FromSoftware, Inc., Bandai Namco Entertainment"
+    },
+    {
+        "appid": 105600,
+        "name": "Terraria",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 1299924,
+        "negative_reviews": 32923,
+        "price": 9.99,
+        "genre": "Action, Adventure, Indie, RPG",
+        "developer": [
+            "Re-Logic"
+        ],
+        "publisher": "Re-Logic"
+    },
+    {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 305663,
+        "negative_reviews": 66722,
+        "price": 0.0,
+        "genre": "Action, Indie, Free To Play",
+        "developer": [
+            "Blue Mammoth Games"
+        ],
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 1086940,
+        "name": "Baldur's Gate 3",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 636101,
+        "negative_reviews": 21065,
+        "price": 59.99,
+        "genre": "Adventure, RPG, Strategy",
+        "developer": [
+            "Larian Studios"
+        ],
+        "publisher": "Larian Studios"
+    },
+    {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 805347,
+        "negative_reviews": 16040,
+        "price": 3.99,
+        "genre": "Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",
+        "developer": [
+            "Wallpaper Engine Team"
+        ],
+        "publisher": "Wallpaper Engine Team"
+    },
+    {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 1119827,
+        "negative_reviews": 203022,
+        "price": 7.99,
+        "genre": "Action",
+        "developer": [
+            "Ubisoft Montreal"
+        ],
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 1064396,
+        "negative_reviews": 35853,
+        "price": 9.99,
+        "genre": "Casual, Indie, Simulation",
+        "developer": [
+            "Facepunch Studios"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 1085660,
+        "name": "Destiny 2",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 490659,
+        "negative_reviews": 121208,
+        "price": 0.0,
+        "genre": "Action, Adventure, Free To Play",
+        "developer": [
+            "Bungie"
+        ],
+        "publisher": "Bungie"
+    },
+    {
+        "appid": 340,
+        "name": "Half-Life 2: Lost Coast",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 12136,
+        "negative_reviews": 1459,
+        "price": 0.0,
+        "genre": "Action",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 586975,
+        "negative_reviews": 116290,
+        "price": 14.99,
+        "genre": "Action, Adventure, Indie, Massively Multiplayer, RPG",
+        "developer": [
+            "Studio Wildcard",
+            "Instinct Games",
+            "Efecto Studios",
+            "Virtual Basement LLC"
+        ],
+        "publisher": "Studio Wildcard, Snail Games USA"
+    },
+    {
+        "appid": 892970,
+        "name": "Valheim",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 440487,
+        "negative_reviews": 25984,
+        "price": 19.99,
+        "genre": "Action, Adventure, Indie, RPG, Early Access",
+        "developer": [
+            "Iron Gate AB"
+        ],
+        "publisher": "Coffee Stain Publishing"
+    },
+    {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 637238,
+        "negative_reviews": 132780,
+        "price": 29.99,
+        "genre": "RPG",
+        "developer": [
+            "CD PROJEKT RED"
+        ],
+        "publisher": "CD PROJEKT RED"
+    },
+    {
+        "appid": 945360,
+        "name": "Among Us",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 633303,
+        "negative_reviews": 56586,
+        "price": 4.99,
+        "genre": "Casual",
+        "developer": [
+            "Innersloth"
+        ],
+        "publisher": "Innersloth"
+    },
+    {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 588545,
+        "negative_reviews": 68766,
+        "price": 9.99,
+        "genre": "Action, RPG",
+        "developer": [
+            "OVERKILL - a Starbreeze Studio."
+        ],
+        "publisher": "Starbreeze Publishing AB"
+    },
+    {
+        "appid": 901583,
+        "name": "Grand Theft Auto IV: Complete Edition",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 132500,
+        "negative_reviews": 29259,
+        "price": 0.0,
+        "genre": "Action, Adventure",
+        "developer": [
+            "Rockstar North",
+            "Rockstar Toronto"
+        ],
+        "publisher": "Rockstar Games"
+    },
+    {
+        "appid": 238960,
+        "name": "Path of Exile",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 201899,
+        "negative_reviews": 24347,
+        "price": 0.0,
+        "genre": "Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play",
+        "developer": [
+            "Grinding Gear Games"
+        ],
+        "publisher": "Grinding Gear Games"
+    },
+    {
+        "appid": 242760,
+        "name": "The Forest",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 532468,
+        "negative_reviews": 25058,
+        "price": 19.99,
+        "genre": "Action, Adventure, Indie, Simulation",
+        "developer": [
+            "Endnight Games Ltd"
+        ],
+        "publisher": "Endnight Games Ltd"
+    },
+    {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 446966,
+        "negative_reviews": 20315,
+        "price": 14.99,
+        "genre": "Action, Adventure, Indie, RPG, Simulation, Strategy",
+        "developer": [
+            "Klei Entertainment"
+        ],
+        "publisher": "Klei Entertainment"
+    },
+    {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 206084,
+        "negative_reviews": 88964,
+        "price": 0.0,
+        "genre": "Action, Adventure, Massively Multiplayer",
+        "developer": [
+            "24 Entertainment"
+        ],
+        "publisher": "NetEase Games Global"
+    },
+    {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 743864,
+        "negative_reviews": 12687,
+        "price": 14.99,
+        "genre": "Indie, RPG, Simulation",
+        "developer": [
+            "ConcernedApe"
+        ],
+        "publisher": "ConcernedApe"
+    },
+    {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 600522,
+        "negative_reviews": 146559,
+        "price": 19.99,
+        "genre": "Action",
+        "developer": [
+            "Behaviour Interactive Inc."
+        ],
+        "publisher": "Behaviour Interactive Inc."
+    },
+    {
+        "appid": 899770,
+        "name": "Last Epoch",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 75694,
+        "negative_reviews": 22674,
+        "price": 34.99,
+        "genre": "Action, Adventure, Indie, RPG",
+        "developer": [
+            "Eleventh Hour Games"
+        ],
+        "publisher": "Eleventh Hour Games"
+    },
+    {
+        "appid": 1097150,
+        "name": "Fall Guys: Ultimate Knockout",
+        "min_owners": 20000000,
+        "max_owners": 50000000,
+        "positive_reviews": 387147,
+        "negative_reviews": 89240,
+        "price": 0.0,
+        "genre": "Action, Casual, Indie, Massively Multiplayer, Sports",
+        "developer": [
+            "Mediatonic"
+        ],
+        "publisher": "Ravenscourt"
+    },
+    {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 765777,
+        "negative_reviews": 31277,
+        "price": 9.99,
+        "genre": "RPG",
+        "developer": [
+            "CD PROJEKT RED"
+        ],
+        "publisher": "CD PROJEKT RED"
+    },
+    {
+        "appid": 291480,
+        "name": "Warface",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 54831,
+        "negative_reviews": 27589,
+        "price": 0.0,
+        "genre": "Action, Massively Multiplayer, Free To Play",
+        "developer": [
+            "MY.GAMES"
+        ],
+        "publisher": "MY.GAMES"
+    },
+    {
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 268954,
+        "negative_reviews": 17442,
+        "price": 19.99,
+        "genre": "Action, RPG",
+        "developer": [
+            "Gearbox Software",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "publisher": "2K, Aspyr (Mac), Aspyr (Linux)"
+    },
+    {
+        "appid": 444090,
+        "name": "Paladins",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 293586,
+        "negative_reviews": 51849,
+        "price": 0.0,
+        "genre": "Action, Adventure, Massively Multiplayer, Strategy, Free To Play",
+        "developer": [
+            "Evil Mojo Games"
+        ],
+        "publisher": "Hi-Rez Studios"
+    },
+    {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 779129,
+        "negative_reviews": 21046,
+        "price": 19.99,
+        "genre": "Indie, Simulation",
+        "developer": [
+            "SCS Software"
+        ],
+        "publisher": "SCS Software"
+    },
+    {
+        "appid": 438100,
+        "name": "VRChat",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 168964,
+        "negative_reviews": 56326,
+        "price": 0.0,
+        "genre": "Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",
+        "developer": [
+            "VRChat Inc."
+        ],
+        "publisher": "VRChat Inc."
+    },
+    {
+        "appid": 552990,
+        "name": "World of Warships",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 110587,
+        "negative_reviews": 32122,
+        "price": 0.0,
+        "genre": "Action, Massively Multiplayer, Simulation, Free To Play",
+        "developer": [
+            "Wargaming Group Limited"
+        ],
+        "publisher": "Wargaming Group Limited"
+    },
+    {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 234690,
+        "negative_reviews": 6184,
+        "price": 9.99,
+        "genre": "Action",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 272060,
+        "name": "Serena",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 4918,
+        "negative_reviews": 1465,
+        "price": 0.0,
+        "genre": "Adventure, Indie",
+        "developer": [
+            "Senscape"
+        ],
+        "publisher": "Senscape"
+    },
+    {
+        "appid": 739630,
+        "name": "Phasmophobia",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 680159,
+        "negative_reviews": 29001,
+        "price": 19.99,
+        "genre": "Action, Indie, Early Access",
+        "developer": [
+            "Kinetic Games"
+        ],
+        "publisher": "Kinetic Games"
+    },
+    {
+        "appid": 620,
+        "name": "Portal 2",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 400683,
+        "negative_reviews": 5305,
+        "price": 1.99,
+        "genre": "Action, Adventure",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 227940,
+        "name": "Heroes & Generals",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 96695,
+        "negative_reviews": 46669,
+        "price": 0.0,
+        "genre": "Action, Free To Play, Indie, Massively Multiplayer, Strategy",
+        "developer": [
+            "TLM Partners"
+        ],
+        "publisher": "TLM Partners"
+    },
+    {
+        "appid": 990080,
+        "name": "Hogwarts Legacy",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 256755,
+        "negative_reviews": 26346,
+        "price": 59.99,
+        "genre": "Action, Adventure, RPG",
+        "developer": [
+            "Avalanche Software"
+        ],
+        "publisher": "Warner Bros. Games"
+    },
+    {
+        "appid": 1966720,
+        "name": "Lethal Company",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 421543,
+        "negative_reviews": 11638,
+        "price": 9.99,
+        "genre": "Action, Adventure, Indie, Early Access",
+        "developer": [
+            "Zeekerss"
+        ],
+        "publisher": "Zeekerss"
+    },
+    {
+        "appid": 1240440,
+        "name": "Halo Infinite",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 121630,
+        "negative_reviews": 51864,
+        "price": 0.0,
+        "genre": "Action, Free To Play",
+        "developer": [
+            "343 Industries"
+        ],
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 1517290,
+        "name": "Battlefield 2042",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 123352,
+        "negative_reviews": 151890,
+        "price": 8.99,
+        "genre": "Action, Adventure, Casual",
+        "developer": [
+            "DICE"
+        ],
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 70,
+        "name": "Half-Life",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 128539,
+        "negative_reviews": 4626,
+        "price": 9.99,
+        "genre": "Action",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 252950,
+        "name": "Rocket League",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 508617,
+        "negative_reviews": 71616,
+        "price": 0.0,
+        "genre": "Action, Indie, Racing, Sports",
+        "developer": [
+            "Psyonix LLC"
+        ],
+        "publisher": "Psyonix LLC"
+    },
+    {
+        "appid": 320,
+        "name": "Half-Life 2: Deathmatch",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 11908,
+        "negative_reviews": 1204,
+        "price": 4.99,
+        "genre": "Action",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 402489,
+        "negative_reviews": 56978,
+        "price": 29.99,
+        "genre": "Action",
+        "developer": [
+            "CAPCOM Co.",
+            "Ltd."
+        ],
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 168160,
+        "negative_reviews": 6481,
+        "price": 9.99,
+        "genre": "Action",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 108600,
+        "name": "Project Zomboid",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 301797,
+        "negative_reviews": 18665,
+        "price": 19.99,
+        "genre": "Indie, RPG, Simulation, Early Access",
+        "developer": [
+            "The Indie Stone"
+        ],
+        "publisher": "The Indie Stone"
+    },
+    {
+        "appid": 1468810,
+        "name": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 117922,
+        "negative_reviews": 105619,
+        "price": 19.99,
+        "genre": "Action, Adventure, Indie, RPG, Simulation",
+        "developer": [
+            "\u9b3c\u8c37\u5de5\u4f5c\u5ba4"
+        ],
+        "publisher": "\u9b3c\u8c37\u5de5\u4f5c\u5ba4, Lightning Games"
+    },
+    {
+        "appid": 444200,
+        "name": "World of Tanks Blitz",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 113257,
+        "negative_reviews": 29373,
+        "price": 0.0,
+        "genre": "Action, Massively Multiplayer, Simulation, Strategy, Free To Play",
+        "developer": [
+            "Wargaming Group Limited"
+        ],
+        "publisher": "Wargaming Group Limited"
+    },
+    {
+        "appid": 386360,
+        "name": "SMITE",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 93703,
+        "negative_reviews": 25005,
+        "price": 0.0,
+        "genre": "Action, Adventure, Casual, Massively Multiplayer, RPG, Strategy, Free To Play",
+        "developer": [
+            "Titan Forge Games"
+        ],
+        "publisher": "Hi-Rez Studios"
+    },
+    {
+        "appid": 648800,
+        "name": "Raft",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 302784,
+        "negative_reviews": 21168,
+        "price": 19.99,
+        "genre": "Adventure, Indie, Simulation",
+        "developer": [
+            "Redbeet Interactive"
+        ],
+        "publisher": "Axolot Games"
+    },
+    {
+        "appid": 755790,
+        "name": "Ring of Elysium",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 74642,
+        "negative_reviews": 25709,
+        "price": 0.0,
+        "genre": "Action, Free To Play, Massively Multiplayer",
+        "developer": [
+            "Aurora Studio"
+        ],
+        "publisher": "TCH Scarlet Limited"
+    },
+    {
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 568164,
+        "negative_reviews": 51563,
+        "price": 59.99,
+        "genre": "Action, Adventure",
+        "developer": [
+            "Rockstar Games"
+        ],
+        "publisher": "Rockstar Games"
+    },
+    {
+        "appid": 550650,
+        "name": "Black Squad",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 62024,
+        "negative_reviews": 19543,
+        "price": 0.0,
+        "genre": "Action, Free To Play",
+        "developer": [
+            "VALOFE",
+            "NS STUDIO"
+        ],
+        "publisher": "VALOFE"
+    },
+    {
+        "appid": 526870,
+        "name": "Satisfactory",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 174721,
+        "negative_reviews": 5851,
+        "price": 35.99,
+        "genre": "Adventure, Indie, Simulation, Strategy",
+        "developer": [
+            "Coffee Stain Studios"
+        ],
+        "publisher": "Coffee Stain Publishing"
+    },
+    {
+        "appid": 301520,
+        "name": "Robocraft",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 86458,
+        "negative_reviews": 31981,
+        "price": 0.0,
+        "genre": "Action, Indie, Massively Multiplayer, RPG, Simulation, Free To Play",
+        "developer": [
+            "Freejam"
+        ],
+        "publisher": "Freejam"
+    },
+    {
+        "appid": 367520,
+        "name": "Hollow Knight",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 359396,
+        "negative_reviews": 10706,
+        "price": 14.99,
+        "genre": "Action, Adventure, Indie",
+        "developer": [
+            "Team Cherry"
+        ],
+        "publisher": "Team Cherry"
+    },
+    {
+        "appid": 400,
+        "name": "Portal",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 161965,
+        "negative_reviews": 2517,
+        "price": 9.99,
+        "genre": "Action",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 477160,
+        "name": "Human Fall Flat",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 193181,
+        "negative_reviews": 10792,
+        "price": 5.99,
+        "genre": "Adventure, Casual, Indie, Simulation",
+        "developer": [
+            "No Brakes Games"
+        ],
+        "publisher": "Curve Games"
+    },
+    {
+        "appid": 239140,
+        "name": "Dying Light",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 408824,
+        "negative_reviews": 20721,
+        "price": 19.99,
+        "genre": "Action, RPG",
+        "developer": [
+            "Techland"
+        ],
+        "publisher": "Techland"
+    },
+    {
+        "appid": 250900,
+        "name": "The Binding of Isaac: Rebirth",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 293182,
+        "negative_reviews": 7542,
+        "price": 14.99,
+        "genre": "Action",
+        "developer": [
+            "Nicalis",
+            "Inc.",
+            "Edmund McMillen"
+        ],
+        "publisher": "Nicalis, Inc."
+    },
+    {
+        "appid": 417910,
+        "name": "Street Warriors Online",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 952,
+        "negative_reviews": 692,
+        "price": 1.99,
+        "genre": "Action, Massively Multiplayer, Simulation, Sports",
+        "developer": [
+            "Crazy Rocks Studios"
+        ],
+        "publisher": "Crazy Rocks Studios"
+    },
+    {
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 114126,
+        "negative_reviews": 90856,
+        "price": 0.0,
+        "genre": "Action, Adventure, Free To Play, Massively Multiplayer",
+        "developer": [
+            "Daybreak Game Company"
+        ],
+        "publisher": "Daybreak Game Company"
+    },
+    {
+        "appid": 814380,
+        "name": "Sekiro: Shadows Die Twice - GOTY Edition",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 284793,
+        "negative_reviews": 13980,
+        "price": 59.99,
+        "genre": "Action, Adventure",
+        "developer": [
+            "FromSoftware",
+            "Inc."
+        ],
+        "publisher": "Activision (Excluding Japan and Asia), FromSoftware, Inc. (Japan), \u65b9\u5757\u6e38\u620f (Asia)"
+    },
+    {
+        "appid": 251570,
+        "name": "7 Days to Die",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 298519,
+        "negative_reviews": 40014,
+        "price": 44.99,
+        "genre": "Action, Adventure, Indie, RPG, Simulation, Strategy",
+        "developer": [
+            "The Fun Pimps"
+        ],
+        "publisher": "The Fun Pimps Entertainment LLC"
+    },
+    {
+        "appid": 1222670,
+        "name": "The Sims 4",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 130931,
+        "negative_reviews": 18797,
+        "price": 0.0,
+        "genre": "Adventure, Casual, Simulation, Free To Play",
+        "developer": [
+            "Maxis"
+        ],
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 220198,
+        "negative_reviews": 30297,
+        "price": 49.99,
+        "genre": "Action, Indie, RPG, Simulation, Strategy",
+        "developer": [
+            "TaleWorlds Entertainment"
+        ],
+        "publisher": "TaleWorlds Entertainment"
+    },
+    {
+        "appid": 594650,
+        "name": "Hunt: Showdown 1896",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 169826,
+        "negative_reviews": 59851,
+        "price": 29.99,
+        "genre": "Action",
+        "developer": [
+            "Crytek"
+        ],
+        "publisher": "Crytek"
+    },
+    {
+        "appid": 1238810,
+        "name": "Battlefield V",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 159999,
+        "negative_reviews": 66460,
+        "price": 7.49,
+        "genre": "Action",
+        "developer": [
+            "DICE"
+        ],
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 8930,
+        "name": "Sid Meier's Civilization V",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 191761,
+        "negative_reviews": 7703,
+        "price": 29.99,
+        "genre": "Strategy",
+        "developer": [
+            "Firaxis Games",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "publisher": "2K, Aspyr (Mac), Aspyr (Linux)"
+    },
+    {
+        "appid": 532210,
+        "name": "Life is Strange 2",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 29033,
+        "negative_reviews": 4816,
+        "price": 31.96,
+        "genre": "Adventure",
+        "developer": [
+            "DONTNOD Entertainment",
+            "Feral Interactive (Mac)",
+            "Feral Interactive (Linux)"
+        ],
+        "publisher": "Square Enix, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 312354,
+        "negative_reviews": 65052,
+        "price": 19.99,
+        "genre": "RPG",
+        "developer": [
+            "Bethesda Game Studios"
+        ],
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 243084,
+        "negative_reviews": 17516,
+        "price": 29.99,
+        "genre": "Simulation, Strategy",
+        "developer": [
+            "Colossal Order Ltd."
+        ],
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 1811260,
+        "name": "EA SPORTS FIFA 23",
+        "min_owners": 10000000,
+        "max_owners": 20000000,
+        "positive_reviews": 85577,
+        "negative_reviews": 65385,
+        "price": 0.0,
+        "genre": "Simulation, Sports",
+        "developer": [
+            "EA Canada &amp; EA Romania"
+        ],
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 107410,
+        "name": "Arma 3",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 245971,
+        "negative_reviews": 26184,
+        "price": 29.99,
+        "genre": "Action, Simulation, Strategy",
+        "developer": [
+            "Bohemia Interactive"
+        ],
+        "publisher": "Bohemia Interactive"
+    },
+    {
+        "appid": 289070,
+        "name": "Sid Meier\u2019s Civilization VI",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 283908,
+        "negative_reviews": 44434,
+        "price": 59.99,
+        "genre": "Strategy",
+        "developer": [
+            "Firaxis Games",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "publisher": "2K, Aspyr (Mac), Aspyr (Linux)"
+    },
+    {
+        "appid": 218230,
+        "name": "PlanetSide 2",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 58464,
+        "negative_reviews": 13724,
+        "price": 0.0,
+        "genre": "Action, Massively Multiplayer, Free To Play",
+        "developer": [
+            "Rogue Planet Games"
+        ],
+        "publisher": "Daybreak Game Company"
+    },
+    {
+        "appid": 60,
+        "name": "Ricochet",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 4759,
+        "negative_reviews": 1014,
+        "price": 4.99,
+        "genre": "Action",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    },
+    {
+        "appid": 72850,
+        "name": "The Elder Scrolls V: Skyrim",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 299966,
+        "negative_reviews": 16284,
+        "price": 19.99,
+        "genre": "RPG",
+        "developer": [
+            "Bethesda Game Studios"
+        ],
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 221100,
+        "name": "DayZ",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 305191,
+        "negative_reviews": 96076,
+        "price": 49.99,
+        "genre": "Action, Adventure, Massively Multiplayer",
+        "developer": [
+            "Bohemia Interactive"
+        ],
+        "publisher": "Bohemia Interactive"
+    },
+    {
+        "appid": 632360,
+        "name": "Risk of Rain 2",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 274621,
+        "negative_reviews": 19853,
+        "price": 24.99,
+        "genre": "Action, Indie",
+        "developer": [
+            "Hopoo Games"
+        ],
+        "publisher": "Gearbox Publishing"
+    },
+    {
+        "appid": 1089350,
+        "name": "NBA 2K20",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 30357,
+        "negative_reviews": 30449,
+        "price": 0.0,
+        "genre": "Simulation, Sports",
+        "developer": [
+            "Visual Concepts"
+        ],
+        "publisher": "2K"
+    },
+    {
+        "appid": 1326470,
+        "name": "Sons Of The Forest",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 177333,
+        "negative_reviews": 27927,
+        "price": 29.99,
+        "genre": "Action, Adventure, Indie, Simulation",
+        "developer": [
+            "Endnight Games Ltd"
+        ],
+        "publisher": "Newnight"
+    },
+    {
+        "appid": 96000,
+        "name": "The Tiny Bang Story",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 5550,
+        "negative_reviews": 795,
+        "price": 4.99,
+        "genre": "Adventure, Casual, Indie",
+        "developer": [
+            "Colibri Games"
+        ],
+        "publisher": "Colibri Games"
+    },
+    {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "min_owners": 5000000,
+        "max_owners": 10000000,
+        "positive_reviews": 74631,
+        "negative_reviews": 16129,
+        "price": 0.0,
+        "genre": "Casual, Free To Play, Strategy",
+        "developer": [
+            "Valve"
+        ],
+        "publisher": "Valve"
+    }
+]
