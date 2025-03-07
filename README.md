@@ -43,7 +43,7 @@ The data used in this analysis was extracted using a Python script, `fetchTopGam
    - **Insight**: Games like *Dota 2* and *PUBG* lead the chart in terms of ownership, with over 500 million owners combined. These free-to-play or massively multiplayer online (MMO) games dominate the platform in terms of engagement and popularity.
 
 ### 3. **Games Ranked by Lowest to Highest Positive Review Percentage**
-   - **Insight**: Games like *Battlefield 2042* and *NBA 2K20* received some of the lowest positive review percentages, indicating dissatisfaction among the player base. In contrast, games like *Apex Legends* and *PUBG* received a higher percentage of positive reviews, highlighting their stronger reception among players.
+   - **Insight**: Games like *Battlefield 2042* and *NBA 2K20* received some of the lowest positive review percentages, indicating dissatisfaction among the player base.
 
 ### 4. **Top Publishers by Game Ownership/Sales**
    - **Insight**: Valve dominates the publisher category with the highest number of game owners, largely due to their highly popular games like *Dota 2*. Other key publishers include KRAFTON, Electronic Arts, and Rockstar, all contributing significant sales across their portfolios.
