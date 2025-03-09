@@ -1,6 +1,10 @@
 # Steam Analytics: Game Ownership, Sales, and User Reviews
 
-### Overview  
+## Dashboard
+
+![Steam Analytics Dashboard](https://github.com/user-attachments/assets/91824be0-d0d5-4f30-8c88-9f6a35660c58)
+
+### Project Overview  
 This project focuses on analyzing and visualizing data from Steam's game library, specifically focusing on the **top 100 games in the past 2 weeks**. The data provides insights into game ownership, sales trends, price distributions, and user reviews. The Power BI dashboard helps stakeholders in the gaming industry make informed decisions based on the sales performance of games, user feedback, and market trends.
 
 ### Data Extraction
@@ -24,26 +28,10 @@ The data used in this analysis was extracted using a Python script, `fetchTopGam
 3. **Saving and Storing Data**:  
    After gathering the data for all 100 games, the script saves the information in a JSON file (`steam_top_100_game_details.json`). This data is then cleaned and processed before being stored in Azure Blob Storage for use in Power BI.
 
-### Key Features:
-
-- **Distribution of Games by Price Range**
-- **Top Games by Ownership/Sales**
-- **Games Ranked by Positive Review Percentage**
-- **Top Publishers by Game Ownership/Sales**
-
-## Dashboard Overview
-
-![Steam Analytics Dashboard](https://github.com/user-attachments/assets/e22e5583-a39d-4f10-abf1-419d3abc9db7)
-
-
-### 1. **Distribution of Games by Price Range**
-   - **Insight**: The majority of games fall within the $0–$10 price range, indicating that most popular titles on Steam are affordably priced. This is reflective of sales strategies favoring lower price points for mass market adoption.
-
-### 2. **Top Games by Ownership/Sales**
-   - **Insight**: Games like *Dota 2* and *PUBG* lead the chart in terms of ownership, with over 500 million owners combined. These free-to-play or massively multiplayer online (MMO) games dominate the platform in terms of engagement and popularity.
-
-### 3. **Games Ranked by Lowest to Highest Positive Review Percentage**
-   - **Insight**: Games like *Battlefield 2042* and *NBA 2K20* received some of the lowest positive review percentages, indicating dissatisfaction among the player base.
-
-### 4. **Top Publishers by Game Ownership/Sales**
-   - **Insight**: Valve dominates the publisher category with the highest number of game owners, largely due to their highly popular games like *Dota 2*. Other key publishers include KRAFTON, Electronic Arts, and Rockstar, all contributing significant sales across their portfolios.
+### **Key Features:**
+- **KPIs:** Total Games, Average Price, Total Developers, and Total Publishers.
+- **Price Distribution:** Breakdown of games by price range.
+- **Positive Review Analysis:** Relationship between game price and review sentiment.
+- **Game Performance:** Top games ranked by ownership and review percentage.
+- **Publisher & Developer Impact:** Largest publishers and developers by total game ownership.
+- **Interactive Filtering:** Users can filter by **Developer** and **Publisher** to refine insights.
